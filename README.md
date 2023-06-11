@@ -12,7 +12,6 @@
 </h2>
 </div>
 
-
 ![Gif-Pokedex](https://user-images.githubusercontent.com/115600640/197432838-0f7eb537-4043-40b3-bf6b-21dc15f97aaf.gif)
 
 <hr>
